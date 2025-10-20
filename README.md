@@ -12,18 +12,33 @@ If all of this sounds good, please read on.
 
 ## Introduction
 
-**ERGOMONICS.**  I believe that "ergonomics" are intensely personal – one size does not fit all.  I aim to try to satisfy as many of those varied preferences as possible, while attempting to adhere to a common denominator: symmetry.  There are “index points” used in all of my layouts from which the line of symmetry is equidistant.  Consider my SEGA2P layout, where the JLF hole and the K2 button are aligned.  I do deviate from this occasionally, but typically only when unavoidable. 
+**ERGOMONICS.**  I believe that "ergonomics" are intensely personal – one size does not fit all.  I aim to try to satisfy as many of those varied preferences as possible, while attempting to adhere to a common denominator: symmetry.  There are “reference points” used in all of my layouts from which the line of symmetry is equidistant.  Consider my SEGA2P layout, where the JLF hole and the K2 button are aligned.  I do deviate from this occasionally, but typically only when unavoidable. 
 
 **SPACING CONSIDERATIONS.**  To accommodate most screw-in buttons, the minimum center-to-center spacing between 30mm buttons is 36.4mm and 30mm between between 24mm buttons.  I position the joystick 60mm from the center of the layout. I consider this ideal, but the panel can be rotated 180 degrees for a wider spacing, if preferred.
 
 **NOTATION / NAMING CONVENTIONS.**  I will refer to the top row of buttons as P1 through P4, and the bottom row as K1 through K4.  In my examples the JLF and KLEVER panels shown are interchangeable.  Layouts will generally be shown in the configuration that I initially designed them for.  I will be using the names that I assign for the panels in my project.
 
-## Existing Layouts
+**INCLUDED LAYOUTS.**  This is not intended to be an exhaustive discussion of all arcade button layouts – that would probably fill an entire book.  I will only cover the layouts for panels I’ve made for CHAMv3, and you can derive my opinions about other layouts from my discussion.
 
-VEWLIX_R.  Many grew up on this layout (myself included) and I imagine that millions of dollars have been won using this layout.  Perhaps not the most ergonomic, but all buttons are within reach except maybe P4 being too high.  But, it clearly does not follow the natural curve of the fingers.  Perhaps more ergonomic if your elbow is pinned to the side – or if you shift your hand to use the right-most 6 buttons.
+## Non-Notched Panels
+| Name | Discussion |
+| -- | -- |
+| JLF_L | As noted previously, I mount the joystick 60mm from the center.  The mount thickness is 7.4mm, which places the bottom of the balltop ~24mm from the top of the panel. This is apparently the suggested mount height. |
+| KLEVER.full_L | Again, 60mm from the center.  But, the mount is now 9mm thick and the hole is wider to accomodate a full collar. |
+| KEEB_L | I find that my middle finger is the only one in the center of a button in a SEGA2P layout -- namely on P2. Thus, I used it as the reference point for the placement of the WASD array.  The 25 degree cant should improve the ergonomics. |
+| WASD_L | Again, this uses P2 as the reference point.  Similarly, it uses a 25 degree cant. |
+| LEVERLESS.sega2p_L | This is literally just a mirror of the corresponding buttons on a normal SEGA2P layout. |
+| VEWLIX_R | Many grew up on this layout (myself included) and I imagine that millions of dollars have been won using this layout.  Not the most ergonomic, but all buttons are within reach except maybe P4 being too high.  But, it clearly does not follow the natural curve of the fingers.  Perhaps more ergonomic if your elbow is pinned to the side – or if you shift your hand to use the right-most 6 buttons. |
+| SEGA_2P_R |  This is what many would consider to be the most ergonomic of the pseudo-standard layouts, and it is my go-to 8 button layout.  K1 and P1-P4 follow the natural curve of all five fingers.  But, Sega2p has the opposite issue of VEWLIX, where K4 is out of reach.  In theory, moving P4 and K4 slightly upward may be more functional, if less ergonomic. "36.4" in the name alludes to the fact that my layout uses a slightly wider spacing than the original. |
 
-SEGA2P_R.  This is what many would consider to be the most ergonomic of the pseudo-standard layouts, and it is my go-to 8 button layout.  K1 and P1-P4 follow the natural curve of all five fingers.  But, Sega2p has the opposite issue of VEWLIX, where K4 is out of reach.  In theory, moving P4 and K4 slightly upward may be more functional, if less ergonomic.
-
-1+6+1_R.  With the release of Street Fighter 6, many saw the need to actually use all 8 buttons, and the previous layouts had issues with P4/K4.  The solution: condense the layout and relocate K4 or P4 to the thumb, a generally more dextrous digit than the pinky. And with many adopting leverless layouts, using 24mm buttons was not unfamiliar. My “1+6+1” layout is an isometric approximation of SEGA2P using 24mm buttons.
-
-CROSSCUT_R.  This is my take on a multi-button, levered layout.  I believe the quickest, most natural movement of the fingers to reach another button is to open or close the hand.  So I chose locations for the extra buttons that roughly correlate to that idea.
+## Custom Layouts
+| Name | Discussion |
+| -- | -- |
+| CROSSCUT_R |  This is my take on a multi-button, levered layout.  I believe the quickest, most natural movement of the fingers to reach another button is to open or close the hand.  So I chose locations for the extra buttons that roughly correlate to that idea. |
+| 8+3.24mm_R |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
